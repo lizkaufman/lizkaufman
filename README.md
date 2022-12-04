@@ -5,6 +5,7 @@ After working in operations and project management at Boots and in the NHS, I de
 I chose a career in programming because it keeps me on my toes, developing my skills, and weaving together creativity and logic to solve problems and create new things. I’m excited to work with and glean knowledge from others within agile teams. I especially enjoy using React and its various libraries to create dynamic, modern, and accessible web applications, and I enjoy hooking up the “guts” of an application across the front end and back end, creating, testing, and implementing components and weaving them together.
 
 ![](https://www.codewars.com/users/lizkaufman/badges/micro)
+[![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizkaufman)](https://github.com/lizkaufman/github-readme-stats)
 
 <!--
 **lizkaufman/lizkaufman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
