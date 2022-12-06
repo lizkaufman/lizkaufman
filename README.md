@@ -1,7 +1,7 @@
 Hi! 👋 My name is Liz Kaufman.
 ============================
 
-Developer and Tech Communicator
+I'm a developer and tech communicator.
 -------------------------------
 
 <!-- Profile made with: https://www.profileme.dev/ -->
