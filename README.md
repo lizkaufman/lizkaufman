@@ -30,7 +30,7 @@ After my history and archaeology degree, I worked in operations and project mana
 
 <p align="left"> <a href="https://www.github.com/lizkaufman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/liz-kaufman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/codingbumblebee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-![](https://www.codewars.com/users/lizkaufman/badges/micro)
+![](https://www.codewars.com/users/lizkaufman/badges/small)
 
 ### Badges
 
