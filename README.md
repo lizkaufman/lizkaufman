@@ -6,7 +6,9 @@ I'm a developer and tech communicator.
 
 <!-- Profile made with: https://www.profileme.dev/ -->
 
-After my history and archaeology degree, I worked in operations and project management until I followed my dream to seek a career that was challenging and meaningful and learn to code. I was a bootcamper on School of Code's third cohort from Jan-May 2020, where I became a full-stack developer and discovered that code is the closest thing to magic in real life. After the bootcamp, I wanted to share that magic with other people, so I became a coach and progressed to lead coach and Head of Bootcamps at the School of Code. It's here that I discovered a love for not just coding but also communicating about tech, and in my nearly three years on the School of Code team, I used the magic of code to change the lives of over 300 people and counting! I now work as a front end developer at Games Workshop.
+After my history and archaeology degree, I worked in operations and project management until I followed my dream to seek a career that was challenging and meaningful and learn to code. I was a bootcamper on School of Code's third cohort from Jan-May 2020, where I became a full-stack developer and discovered that code is the closest thing to magic in real life. After the bootcamp, I wanted to share that magic with other people, so I became a coach and progressed to lead coach and Head of Bootcamps at the School of Code. It's here that I discovered a love for not just coding but also communicating about tech, and in my nearly three years on the School of Code team, I used the magic of code to change the lives of over 300 people and counting! 
+
+I now work as a front end developer at Games Workshop, where I get to combine two things I love doing: painting Warhammer and code!
 
 * 🌍  I'm based in Nottingham, UK
 * ✉️  You can contact me at [lizkaufman92@gmail.com](mailto:lizkaufman92@gmail.com)
